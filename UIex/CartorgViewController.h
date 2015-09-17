@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CartorgViewController.h
 //  UIex
 //
 //  Created by XXT on 15/9/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CartorgViewController : UITableViewController
 
 @end
-
